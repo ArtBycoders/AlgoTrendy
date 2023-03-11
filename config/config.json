@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7185165c896Bc7b1F2385777C3BabFeC07bbab54",
+  "SCAN_LINK": "https://polygonscan.com/token/0x7185165c896Bc7b1F2385777C3BabFeC07bbab54",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Algo Trendy",
+  "SYMBOL": "ABCAT",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 100000000000000000000,
+  "DISPLAY_COST": 100,
+  "GAS_LIMIT": 2850000,
+  "MARKETPLACE": "ArtByCoders",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ArtByCoders",
+  "SHOW_BACKGROUND": true
+}
